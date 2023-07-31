@@ -36,5 +36,5 @@
  - Supported server versions: `1.8 - 1.18.2`
  
  ### License
- [MIT](https://github.com/urFate/Afk-Bot/blob/main/LICENSE)
+ [MIT](https://github.com/Akiserius/afkbot/blob/main/LICENSE)
 
