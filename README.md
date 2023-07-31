@@ -16,7 +16,7 @@
 
 ## Installation
 
- 1. [Download](https://github.com/urFate/Afk-Bot/tags) the latest package.
+ 1. [Download](https://github.com/Akiserius/afkbot/tags) the latest package.
  2. Download & install [Node.JS](https://nodejs.org/en/download/)
  3. Run `npm install` command in bot directory.
  
